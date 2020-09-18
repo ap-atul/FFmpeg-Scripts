@@ -10,3 +10,4 @@ A set of scripts using FFmpeg library to process videos and audios
 - Screen recording and screenshots
 - Video clipping and trimming (with audio)
 - Creating gif using ffmpeg
+- Combining multiple videos into one (concat)
