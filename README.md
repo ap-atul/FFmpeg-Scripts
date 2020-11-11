@@ -11,3 +11,4 @@ A set of scripts using FFmpeg library to process videos and audios
 - Video clipping and trimming (with audio)
 - Creating gif using ffmpeg
 - Combining multiple videos into one (concat)
+- Extracting and attaching metadata of media file
