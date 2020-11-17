@@ -12,3 +12,4 @@ A set of scripts using FFmpeg library to process videos and audios
 - Creating gif using ffmpeg
 - Combining multiple videos into one (concat)
 - Extracting and attaching metadata of media file
+- Extracting and adding cover/ art image in/from audio file
