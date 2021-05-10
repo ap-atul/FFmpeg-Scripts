@@ -1,4 +1,8 @@
 # This one should be executed in steps
+# check the scale before use
+
+# extract frames from vid
+ffmpeg -i vid.mp4 %d.png
 
 # create a pallete of all images (all file should be named as 1.png 2.png 3.png)
 ffmpeg -f image2 -i %d.png -vf scale=512:-1:sws_dither=ed,palettegen palette.png
